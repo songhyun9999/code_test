@@ -22,6 +22,7 @@ def solution(info, n, m):
     
     return answer if answer<n else -1
 
+
 ###### 완전 탐색 풀이 ########
 # import sys
 # def solution(info, n, m):
